@@ -7,4 +7,7 @@ there are some issues with the hud not always dissapearing. only fix is just res
 
 keybinds: Open any locked doors with NUM4 / aimbot is left ctrl. (i may look to change the aimbot button if enough people want me to or you can do it yourself by editing the cheat.dll
 
-original poster: for source etc. https://github.com/NoClueWhoIAm/EmuTarkov_ESP_Plus
+where i got it from https://github.com/NoClueWhoIAm/EmuTarkov_ESP_Plus
+
+credits to TheMaoci who first originally made this possible the guy above just changed it and gave no credit and i just changed the version to match our patch
+
