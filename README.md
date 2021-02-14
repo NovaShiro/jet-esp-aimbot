@@ -5,7 +5,10 @@ BACK UP YOUR OWN ASSEMBLY.CSHARP cuz otherwise your gonna have to download the g
 
 there are some issues with the hud not always dissapearing. only fix is just restarting the game unfortunately. 
 
-keybinds: Open any locked doors with NUM4 / aimbot is left ctrl. (i may look to change the aimbot button if enough people want me to or you can do it yourself by editing the cheat.dll
+keybinds!
+Aimbot = left ctrl
+door unlocker = num4 / kinda buggy may crash may not if u dont have a numpad. rest in piece may your soul im going to try change it cuz i unfortunately dont have 1 xD
+
 
 where i got it from https://github.com/NoClueWhoIAm/EmuTarkov_ESP_Plus
 
